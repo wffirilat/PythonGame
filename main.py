@@ -2,7 +2,7 @@ __author__ = "wffirilat"
 
 
 def main():
-    pass
+    print("Hello, World!")
 
 
 if __name__ == "__main__":
